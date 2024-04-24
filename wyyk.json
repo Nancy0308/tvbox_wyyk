@@ -25,8 +25,6 @@
  
  {"key":"天天","name":"🥇┃天天影视","type":3,"api":"csp_TTian","jar":"./jars/fix1209.jar","playerType":1,"ext":"http://op.ysdqjs.cn"},
  
- {"key":"畅梦","name":"🥇┃畅梦影视","type":3,"api":"./js/drpy2.min.js","ext":"./js/changmeng.js"}, 
- 
  {"key": "小城影视","name": "🥇┃小城影视","type": 3,"api": "csp_NanGua", "searchable": 1, "changeable": 1 },     
  
  {"key":"csp_duoju", "name":"🥇┃星辰影院", "type":3,"api":"csp_XBPQ", "searchable":1,"quickSearch":1, "filterable":0, "ext":"./json/xinchen.json" },
@@ -65,11 +63,7 @@
    
  {"key":"234PQ","name":"💠┃月亮影院","type":3,"api":"csp_XBPQ","searchable":1,"filterable":1,"jar":"./jars/xbpq.jar",
  "quickSearch":1,"ext":"./json/月亮影院.json"},
- 
- { "key": "vids", "name": "💠┃vids影视","type": 3,"api": "csp_XBPQ", "ext":{  "数组二次截取": "排序&&footer-content","线路标题":"网游鹰💠+&nbsp;&&<",
-"数组":"<a&&class=\"module-poster-item-info\">","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$21", "分类url":"https://ys.vidz.asia/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}/"
-  } },                
-   
+                
  {"key":"电影先生","name":"💠┃电影先生", "type":3, "api":"csp_XBPQ","jar":"./jars/sx.jar", "searchable":1, "quickSearch":1, "filterable":1, "ext":"分类url:https://dianyi.ng/v/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$dianying#电视剧$电视剧#综艺$zongyi#动漫$dongman" }, 
         
  {"key":"网飞猫影视","name":"💠┃网飞影视","type":3,"api":"csp_XBPQ", "jar":"./jars/xkl.jar","ext":{"数组":"module-item\">&&</div>",
