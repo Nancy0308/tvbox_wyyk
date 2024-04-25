@@ -66,17 +66,7 @@
  {"key":"234PQ","name":"💠┃月亮影院","type":3,"api":"csp_XBPQ","searchable":1,"filterable":1,"jar":"./jars/xbpq.jar",
  "quickSearch":1,"ext":"./json/月亮影院.json"},
  
-    {
-      "key": "csp_红狐狸影视",
-      "name": "💠┃狐狸影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/ttkx.jar",
-      "ext": {
-        "分类url": "https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
-      }
-    },             
+{"key": "csp_红狐狸影视","name": "💠┃狐狸影视","type": 3,"api": "csp_XBPQ", "jar": "./lib/ttkx.jar","ext": {"分类url": "https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},             
    
  {"key":"电影先生","name":"💠┃电影先生", "type":3, "api":"csp_XBPQ","jar":"./jars/sx.jar", "searchable":1, "quickSearch":1, "filterable":1, "ext":"分类url:https://dianyi.ng/v/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$dianying#电视剧$电视剧#综艺$zongyi#动漫$dongman" }, 
         
