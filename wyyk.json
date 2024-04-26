@@ -66,7 +66,7 @@
  {"key":"234PQ","name":"💠┃月亮影院","type":3,"api":"csp_XBPQ","searchable":1,"filterable":1,"jar":"./jars/xbpq.jar",
  "quickSearch":1,"ext":"./json/月亮影院.json"},
  
-{"key": "csp_红狐狸影视","name": "💠┃狐狸影视","type": 3,"api": "csp_XBPQ", "jar": "./jars/ttkx.jar","ext": {"分类url": "https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},             
+{"key": "小爱","name": "💠┃小爱影视","type": 1,"api": "http://laowang.co/api.php/provide/vod?","playUrl": "","searchable": 1,"quickSearch":0,"changeable": 1},
    
  {"key":"电影先生","name":"💠┃电影先生", "type":3, "api":"csp_XBPQ","jar":"./jars/sx.jar", "searchable":1, "quickSearch":1, "filterable":1, "ext":"分类url:https://dianyi.ng/v/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$dianying#电视剧$电视剧#综艺$zongyi#动漫$dongman" }, 
         
@@ -80,12 +80,12 @@
        
 { "key": "csp_桵空影院","name": "💠┃桵空影院","type": 3,"api": "csp_XBPQ","ext": {"分类url": "https://www.maigo.cc/vodshow/{cateId}---{class}-----{catePg}---{year}/","分类": "电影$84#综艺$91#大陆剧$81#港台剧$82#海外剧$83#纪录片$88#动漫$1#日剧$32#日漫$46#国漫$47#美漫$85"}},    
 
+
 { "key": "金鱼影视", "name": "💠┃金鱼影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E9%87%91%E9%B1%BC%E5%BD%B1%E8%A7%86.json",  "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar" },
 
 { "key": "黑木耳资源", "name": "💠┃木耳资源", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1, "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E9%BB%91%E6%9C%A8%E8%80%B3%E8%B5%84%E6%BA%90.json", "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar" },
  
  {"key": "T4-juquan", "name": "💠┃剧圈圈", "type": 4,  "api": "https://catbox.n13.club/juquan.php" },
-
 {"key": "csp_AList", "name": "❄┃Alist合集 | 网盘", "type": 3,"playerType": 1,"api": "csp_AList",  "jar":"./jars/fm.jar","searchable": 1,"quickSearch": 1,
 "filterable": 1,"ext": "./lib/Alist.json"}, 
 
