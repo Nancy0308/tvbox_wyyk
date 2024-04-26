@@ -64,7 +64,7 @@
  {"key": "云播影视", "name": "💠┃云播影视", "type": 3,"playerType": "2","api": "./js/drpy2.min.js","ext": "./js/TVB云播.js"},
    
  {"key":"234PQ","name":"💠┃月亮影院","type":3,"api":"csp_XBPQ","searchable":1,"filterable":1,"jar":"./jars/xbpq.jar",
- "quickSearch":1,"ext":"./json/月亮影院.json"},
+ "quickSearch":0,"ext":"./json/月亮影院.json"},
  
 {"key": "小爱","name": "💠┃小爱影视","type": 1,"api": "http://laowang.co/api.php/provide/vod?","playUrl": "","searchable": 1,"quickSearch":0,"changeable": 1},
    
