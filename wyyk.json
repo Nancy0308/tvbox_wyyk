@@ -86,7 +86,10 @@
 { "key": "黑木耳资源", "name": "💠┃木耳资源", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1, "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E9%BB%91%E6%9C%A8%E8%80%B3%E8%B5%84%E6%BA%90.json", "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar" },
  
  {"key": "T4-juquan", "name": "💠┃剧圈圈", "type": 4,  "api": "https://catbox.n13.club/juquan.php" },
+<<<<<<< HEAD
 
+=======
+>>>>>>> 504fda4b0ece0f6322b49df4f50a23b22f39b209
 {"key": "csp_AList", "name": "❄┃Alist合集 | 网盘", "type": 3,"playerType": 1,"api": "csp_AList",  "jar":"./jars/fm.jar","searchable": 1,"quickSearch": 1,
 "filterable": 1,"ext": "./lib/Alist.json"}, 
 
