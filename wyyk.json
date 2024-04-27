@@ -124,63 +124,27 @@
 {"key":"T4-6v","name":"💠磁力-6V(T4)","type":4,"api":"https://catbox.n13.club/6v.php"},
 
 {"key":"T4-哔嘀","name":"💠磁力-哔嘀(T4)","type":4,"api":"https://catbox.n13.club/bdys.php"},
- {
-      "key": "drpy_js_360影视",
-      "name": "💠┃360[官源]",
-      "type": 3,
-      "api": "./api/drpy.min.js",
-      "jar":"./jars/xin.jar",
-      "ext": "./js/360影视.js"
-    },
-    {
-      "key": "drpy_js_奇珍异兽",
-      "name": "💠┃爱奇艺[官源]",
-      "type": 3,
-      "api": "./api/drpy.min.js",
-      "jar":"./jars/xin.jar",
-      "ext": "./js/奇珍异兽.js"
-    },
-    {
-      "key": "drpy_js_优酷",
-      "name": "💠┃优酷[官源]",
-      "type": 3,
-      "api": "./api/drpy.min.js",
-      "jar":"./jars/xin.jar",
-      "ext": "./js/优酷.js"
-    },
-    {
-      "key": "drpy_js_腾云驾雾",
-      "name": "💠┃腾讯[官源]",
-      "type": 3,
-      "api": "./api/drpy.min.js",
-      "jar":"./jars/xin.jar",
-      "ext": "./js/腾云驾雾.js"
-    },
-    {
-      "key": "drpy_js_百忙无果",
-      "name": "💠┃芒果[官源]",
-      "type": 3,
-      "api": "./api/drpy.min.js",
-      "jar":"./jars/xin.jar",
-      "ext": "./js/百忙无果.js"
-    },
-    {
-      "key": "drpy_js_菜狗",
-      "name": "💠┃搜狗[官源]",
-      "type": 3,
-      "api": "./api/drpy.min.js",
-      "jar":"./jars/xin.jar",
-      "ext": "./js/菜狗.js"
-    },
+ 
+{"key": "drpy_js_360影视","name": "💠┃360[官源]", "type": 3, "api": "./api/drpy.min.js","jar":"./jars/xin.jar", "ext": "./js/360影视.js" },
+   
+{ "key": "drpy_js_奇珍异兽", "name": "💠┃爱奇艺[官源]", "type": 3,"api": "./api/drpy.min.js", "jar":"./jars/xin.jar", "ext": "./js/奇珍异兽.js" },
+    
+{"key": "drpy_js_优酷","name": "💠┃优酷[官源]","type": 3,"api": "./api/drpy.min.js","jar":"./jars/xin.jar","ext": "./js/优酷.js" },
+    
+{ "key": "drpy_js_腾云驾雾", "name": "💠┃腾讯[官源]", "type": 3, "api": "./api/drpy.min.js","jar":"./jars/xin.jar", "ext": "./js/腾云驾雾.js" },
+    
+{ "key": "drpy_js_百忙无果", "name": "💠┃芒果[官源]", "type": 3, "api": "./api/drpy.min.js","jar":"./jars/xin.jar","ext": "./js/百忙无果.js" },
+    
+{ "key": "drpy_js_菜狗", "name": "💠┃搜狗[官源]", "type": 3,"api": "./api/drpy.min.js","jar":"./jars/xin.jar", "ext": "./js/菜狗.js" },
 {"key": "csp_AList", "name": "❄┃Alist合集 | 网盘", "type": 3,"playerType": 1,"api": "csp_AList",  "jar":"./jars/fm.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./lib/Alist.json"}, 
 
  {"key":"AliShare","name":"❄影视云盘 | 网盘","type":3,"api":"csp_AliShare","jar":"./jars/pg.jar","searchable":1,"quickSearch":0, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/alishare.txt$$$./lib/alitoken.txt$$$db$$$1","style": {"type": "list","ratio": 1.1}}, 
   
  {"key":"py_cctv_企鹅","name":"🏀┃体育┃直播","type":3,"api":"py_cctv_full","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://rihou.cc:88/hccx/py_企鹅体育.py"},
  
- {"key": "drpy_js_88看球","name": "🏀┃体育┃88看球","type": 3,"jar": "http://www.xzweb.top/cs/影视接口/main/alib/jar/kanqiu.jar", "api": "https://jihulab.com/xhkw1/kw/-/raw/main/lib/drpy2.min.js", "ext": "http://www.xzweb.top/cs/影视接口/main/alib/88看球.js" },
+ {"key": "csp_Kanqiu","name": "⚽88看球", "type": 3, "api": "csp_Kanqiu", "jar":"./jars/88.jar", "searchable": 1,"quickSearch": 0, "filterable": 1, "changeable": 0 },
  
- {"key": "drpy_js_310直播", "name": "⚽┃310看球", "type": 3, "api": "https://jihulab.com/xhkw1/kw/-/raw/main/lib/drpy2.min.js", "ext": "http://www.xzweb.top/cs/影视接口/main/alib/310直播.js" },  
+  { "key": "310js", "name": "⚽310┃看球", "type": 3, "api": "./js/drpy2.min.js", "jar":"./jars/fty.jar", "ext": "./js/310直播.js", "style": { "type": "list" }, "searchable": 0, "quickSearch": 0, "changeable": 0 },
  
   {"key":"评书","name":"🏮┃评   书","type":3,"searchable":0,"style":{"type":"rect","ratio":1.597},"quickSearch":0,"api":"csp_XBPQ","jar":"./jars/c.txt","ext":"./json/评书.json"},
  
