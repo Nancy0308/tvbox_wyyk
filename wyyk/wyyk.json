@@ -150,8 +150,6 @@
  {"key":"极品短剧","name":"💢┃极品短剧","type":3,"api":"csp_Wexduanjuvmp","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;1ee361a1e82bb47bb7a9582055634ca3","searchable":1,"changeable":1},
  {"key":"软件","name":" 📗┃软件教程","type":3,"api":"csp_Bili","jar":"./jars/1694435460.txt","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/软件教程.json"},  
 
- {"key":"bookan_book_open","name":"📗┃博看","type":3,"api":"./lib/MyCatBookan.js"},
- 
  {"key": "学外语", "name": "📚┃学外语", "type": 3, "api": "csp_Bili", "searchable": 1, "quickSearch": 0, "filterable": 1, "ext": "./json/waiyu.json" },
 
  {"key":"少儿","name":"📚 | 少儿教育","type":3,"api":"csp_Bili","jar":"./jars/Yoursmile.jar","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/少儿教育.json"},
@@ -184,15 +182,14 @@
  ],
  
  "parses":[
-{"name":"智能解析","type":2,"url":"Sequence"},
-{"name": "JSON","type": 3, "url": "Demo" },
 {"name":"Web聚合","type":3,"url":"Web"},          
 { "name": "看看", "type": 0, "url": "https://jx.m3u8.pw/?url=" },
+{"name": "夜幕",	"type": 0,	"url": "https://www.yemu.xyz/?url="	},
 {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},{"name":"xmflv","type":0,"url":"https://jx.xmflv.com/?url="},
+ {"name": "-虾米-", "type": 0,"url": "https://jx.xmflv.com/?url=", "ext": { "header": { "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"  }  } },
 {"name":"bozrc","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}},
 {"name":"xmflv","type":0,"url":"https://jx.xmflv.com/?url="},
 {"name": "2号线", "type": 0, "url": "https://jx.777jiexi.com/player/?url=" },
- {"name": "-虾米-", "type": 0,"url": "https://jx.xmflv.com/?url=", "ext": { "header": { "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"  }  } },
 {"name":"全看","type":0,"url":"https://jx.quankan.app/?url="},
 {"name":"★左岸★","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="}      
  ],
