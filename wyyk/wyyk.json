@@ -25,8 +25,6 @@
 
  { "key": "多多玩偶","name": "🎖┃多多4K纯净", "type": 3, "api": "csp_XYQHikerAL", "jar": "http://我不是.摸鱼儿.top/盗用私募/jar/xpbq.php","searchable": 1, "quickSearch": 0, "filterable": 1, "ext": "http://我不是.摸鱼儿.top/盗用私募/api/玩偶多多.php"  },
     
-  {"key": "T4-mingri", "name": "🎖┃明日T4","type": 4, "api": "https://catbox.n13.club/mingri.php"}, 
- 
  {"key": "南瓜","name": "🎖┃南瓜影视","type": 3,"api": "csp_NanGua","jar":"./jars/fm.jar","playerType": 2,"searchable": 1,"quickSearch": 0,"changeable": 1},          
 
  {"key":"csp_黑狐","name":"🎖┃黑狐影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"filterable":1,"ext":"./json/heihu.json"},
@@ -97,38 +95,6 @@
 
 { "key": "黑木耳资源", "name": "💠┃木耳资源", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 0,"filterable": 1, "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E9%BB%91%E6%9C%A8%E8%80%B3%E8%B5%84%E6%BA%90.json", "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar" },
  
- {"key": "T4-juquan", "name": "💠┃剧圈圈", "type": 4,  "api": "https://catbox.n13.club/juquan.php" },
-
-{"key":"T4-douban","name":"💠影视-豆瓣(T4)","type":4,"api":"https://catbox.n13.club/douban.php"},
-
-{"key":"T4-yugaopian","name":"💠影视-预告片(T4)","type":4,"api":"https://catbox.n13.club/yugaopian.php"},
-
-{"key":"T4-剧圈","name":"💠影视-剧圈(T4)","type":4,"api":"https://catbox.n13.club/juquan.php"},
-
-{"key":"T4-黑狐","name":"💠影视-黑狐(T4)","type":4,"api":"https://catbox.n13.club/heihu.php"},
-
-{"key":"T4-jp","name":"💠影视-荐片(T4)","type":4,"api":"https://catbox.n13.club/jianpian.php"},
-
-{"key":"T4-南瓜","name":"💠影视-南瓜(T4)","type":4,"api":"https://catbox.n13.club/nangua.php"},
-
-{"key":"T4-极光","name":"💠影视-极光(T4)","type":4,"api":"https://catbox.n13.club/jiguang.php"},
-
-{"key":"T4-caiji","name":"💠影视-采集(T4)","type":4,"api":"https://catbox.n13.club/caiji.php"},
-
-{"key":"T4-wencai","name":"💠影视-文才(T4)","type":4,"api":"https://catbox.n13.club/wencai.php"},
-
-{"key":"T4-xinshijue","name":"💠影视-新视觉(T4)","type":4,"api":"https://catbox.n13.club/xinshijue.php"},
-
-{"key":"T4-saohuo","name":"💠影视-骚火(T4)","type":4,"api":"https://catbox.n13.club/saohuo.php"},
-
-{"key":"T4-jojo","name":"💠影视-jojo(T4)","type":4,"api":"https://catbox.n13.club/jojo.php"},
-
-{"key":"T4-mingri","name":"🎖┃影视-明日(T4)","type":4,"api":"https://catbox.n13.club/mingri.php"},
-
-{"key":"T4-6v","name":"💠磁力-6V(T4)","type":4,"api":"https://catbox.n13.club/6v.php"},
-
-{"key":"T4-哔嘀","name":"💠磁力-哔嘀(T4)","type":4,"api":"https://catbox.n13.club/bdys.php"},
-
  {"key": "drpy_js_360影视","name": "💠┃360[官源]", "type": 3, "api": "./api/drpy.min.js","jar":"./jars/xin.jar", "ext": "./js/360影视.js" },
    
 { "key": "drpy_js_奇珍异兽", "name": "💠┃爱奇艺[官源]", "type": 3,"api": "./api/drpy.min.js", "jar":"./jars/xin.jar", "ext": "./js/奇珍异兽.js" },
