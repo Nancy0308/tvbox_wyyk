@@ -10,18 +10,17 @@
 {"name":"抖音","url":"https://cloud.lxweb.cn/f/BdOjI9/%E6%8A%96%E9%9F%B3.apk","icon":"https://cloud.lxweb.cn/f/WPmRcB/status_icon.png","version":"抖音TV版"},
 {"name":"影视TV海信版","url":"https://cloud.lxweb.cn/f/P6rEfb/%E5%BD%B1%E8%A7%86%E7%94%B5%E8%A7%86%E7%89%88_0214%EF%BC%88%E6%B5%B7%E4%BF%A1%E7%94%B5%E8%A7%86%E4%B8%93%E7%94%A8%E7%89%88%EF%BC%89.apk","icon":"https://cloud.lxweb.cn/f/9D6Li1/05A15ujb_Fengmi_640.png","version":"0214海信专用版"},
 {"name":"影视仓TV海信版","url":"https://cloud.lxweb.cn/f/P0Zgfb/%E5%BD%B1%E8%A7%86%E4%BB%93_5.0.27%E6%B5%B7%E4%BF%A1.apk","icon":"https://cloud.lxweb.cn/f/9kNkI1/%E5%BD%B1%E8%A7%86%E4%BB%93.jpg","version":"5.0.27海信专用版"},
-{"name":"可视TV版","url":"https://cloud.lxweb.cn/f/nEyVi6/%E5%8F%AF%E8%A7%86TVMax_1.8.8%EF%BC%882024.04.05%E5%85%B1%E5%AD%98%E5%9B%BA%EF%BC%89.apk","icon":"https://cloud.lxweb.cn/f/a7Ogh6/keshi.png","version":"1.8.8版"},
-{"name":"可视TV版","url":"https://cloud.lxweb.cn/f/l7gYsw/%E5%8F%AF%E8%A7%86TV1.8.4.apk","icon":"https://cloud.lxweb.cn/f/a7Ogh6/keshi.png","version":"1.8.4版"}
+{"name":"可视TV版","url":"https://cloud.lxweb.cn/f/6wdEuw/%E5%8F%AF%E8%A7%86TV%20Max_1.9.0%EF%BC%882024.04.20%EF%BC%89.apk","icon":"https://cloud.lxweb.cn/f/a7Ogh6/keshi.png","version":"1.9.0版"},
+{"name":"可视TV版","url":"https://cloud.lxweb.cn/f/pL01se/kstvmax1.8.9.apk","icon":"https://cloud.lxweb.cn/f/a7Ogh6/keshi.png","version":"1.8.9版"}
 ]},
 
 {"name":"电视直播软件","list":[
-{"name":"我的电视","url":"https://cloud.lxweb.cn/f/Lw1oFD/%E6%88%91%E7%9A%84%E7%94%B5%E8%A7%86_1.7.4.apk","icon":"https://cloud.lxweb.cn/f/wEP6c2/wdds.png","version":"1.7.4版"},
-{"name":"我的电视","url":"https://cloud.lxweb.cn/f/dGyQS2/my-tv-v1.7.6.apk","icon":"https://cloud.lxweb.cn/f/wEP6c2/wdds.png","version":"1.7.6版"},
 {"name":"电视家","url":"https://cloud.lxweb.cn/f/Awplia/%E7%94%B5%E8%A7%86%E5%AE%B69.0.apk","icon":"https://cloud.lxweb.cn/f/BxAAH9/%E7%94%B5%E8%A7%86%E5%AE%B6.png","version":"电视家9.0版"},
 {"name":"电视家","url":"https://cloud.lxweb.cn/f/PB1Dtb/%E9%9B%BB%E8%A6%96%E5%AE%B62024_v9.1.1.Apk","icon":"https://cloud.lxweb.cn/f/BxAAH9/%E7%94%B5%E8%A7%86%E5%AE%B6.png","version":"电视家9.1.1版"},
 {"name":"河南IPTV(移动宽带用户)","url":"https://cloud.lxweb.cn/f/qjRGue/%E6%B2%B3%E5%8D%97IPTV.v4.1.2z.apk","icon":"https://cloud.lxweb.cn/f/eByxHa/ic_logo.png","version":"河南IPTV.v4.1.2z版"},
 {"name":"小微直播","url":"https://cloud.lxweb.cn/f/LyVyID/%E5%B0%8F%E8%96%87%E7%9B%B4%E6%92%AD-2.7.0.1.apk","icon":"https://cloud.lxweb.cn/f/x0GbuM/%E5%B0%8F%E5%BE%AE%E7%9B%B4%E6%92%AD2.7.0.1.jpg","version":"小微直播2.7.0.1.版"},
-{"name":"有线电视","url":"https://cloud.lxweb.cn/f/bZGdCp/%E6%9C%89%E7%BA%BF%E7%94%B5%E8%A7%86_1.0.9-live-outgoing.apk","icon":"https://cloud.lxweb.cn/f/6wJWHw/%E6%9C%89%E7%BA%BF%E7%94%B5%E8%A7%86.png","version":"1.0.9版"}
+{"name":"有线电视","url":"https://cloud.lxweb.cn/f/bZGdCp/%E6%9C%89%E7%BA%BF%E7%94%B5%E8%A7%86_1.0.9-live-outgoing.apk","icon":"https://cloud.lxweb.cn/f/6wJWHw/%E6%9C%89%E7%BA%BF%E7%94%B5%E8%A7%86.png","version":"1.0.9版"},
+{"name":"我的电视","url":"https://cloud.lxweb.cn/f/nRJGU6/%E6%88%91%E7%9A%84%E7%94%B5%E8%A7%86mytv_1.8.4%28%E9%80%9A%E7%94%A8%29.apk","icon":"https://cloud.lxweb.cn/f/wEP6c2/wdds.png","version":"1.8.4版"}
 ]},
 
 
@@ -67,7 +66,10 @@
 {"name":"影视仓","url":"https://cloud.lxweb.cn/f/MyPQcG/%E5%BD%B1%E8%A7%86%E4%BB%93_5.0.9%28%E7%BD%91%E6%B8%B8%E9%B9%B0%E5%86%85%E7%BD%AE%E7%89%88%29.apk","icon":"https://cloud.lxweb.cn/f/9kNkI1/%E5%BD%B1%E8%A7%86%E4%BB%93.jpg","version":"网游鹰内置接口5.0.9版"},
 {"name":"影视TV2.3.2","url":"https://cloud.lxweb.cn/f/8MlXu1/%E7%BD%91%E6%B8%B8%E9%B9%B0TV.apk","icon":"https://cloud.lxweb.cn/f/GyqrTg/wyy.png","version":"网游鹰内置2.3.2版"},
 {"name":"老兵影院","url":"https://cloudlxwebcnfbBJOsp%E8%80%81%E5%85%B5%E5%BD%B1%E9%99%A27.2%E2%98%85%E8%87%AA%E5%8A%A8%E7%99%BB%E5%BD%95%E6%B0%B8%E4%B9%85%E4%BC%9A%E5%91%98.apK","icon":"https://cloud.lxweb.cn/f/qBO7ce/%E8%80%81%E5%85%B5.png","version":"老兵影院7.2自动登录永久版"},
-{"name":"宝全影院","url":"https://cloud.lxweb.cn/f/8Ybyf1/%E5%AE%9D%E5%85%A8%E5%BD%B1%E9%99%A2%E5%86%85%E7%BD%AE2.3.2_anti.apk","icon":"https://cloud.lxweb.cn/f/ojmyuY/%E5%AE%9D%E5%85%A8%E5%BD%B1%E9%99%A2.png","version":"宝全影院内置2.3.2版"}
+{"name":"宝全影院","url":"https://cloud.lxweb.cn/f/8Ybyf1/%E5%AE%9D%E5%85%A8%E5%BD%B1%E9%99%A2%E5%86%85%E7%BD%AE2.3.2_anti.apk","icon":"https://cloud.lxweb.cn/f/ojmyuY/%E5%AE%9D%E5%85%A8%E5%BD%B1%E9%99%A2.png","version":"宝全影院内置2.3.2版"},
+{"name":"龍門影视珍藏版","url":"https://cloud.lxweb.cn/f/PkkDib/%E9%BE%8D%E9%96%80%E5%BD%B1%E8%A7%86%E7%8F%8D%E8%97%8F%E7%89%88.apk","icon":"https://cloud.lxweb.cn/f/L222UD/%E9%BE%99%E9%97%A8.png","version":"龍門影视珍藏版"}
+
+
 ]},
 
 {"name":"安卓4系列专区","list":[

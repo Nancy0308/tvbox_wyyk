@@ -124,8 +124,8 @@
 {"key":"T4-6v","name":"💠磁力-6V(T4)","type":4,"api":"https://catbox.n13.club/6v.php"},
 
 {"key":"T4-哔嘀","name":"💠磁力-哔嘀(T4)","type":4,"api":"https://catbox.n13.club/bdys.php"},
- 
-{"key": "drpy_js_360影视","name": "💠┃360[官源]", "type": 3, "api": "./api/drpy.min.js","jar":"./jars/xin.jar", "ext": "./js/360影视.js" },
+
+ {"key": "drpy_js_360影视","name": "💠┃360[官源]", "type": 3, "api": "./api/drpy.min.js","jar":"./jars/xin.jar", "ext": "./js/360影视.js" },
    
 { "key": "drpy_js_奇珍异兽", "name": "💠┃爱奇艺[官源]", "type": 3,"api": "./api/drpy.min.js", "jar":"./jars/xin.jar", "ext": "./js/奇珍异兽.js" },
     
@@ -136,15 +136,16 @@
 { "key": "drpy_js_百忙无果", "name": "💠┃芒果[官源]", "type": 3, "api": "./api/drpy.min.js","jar":"./jars/xin.jar","ext": "./js/百忙无果.js" },
     
 { "key": "drpy_js_菜狗", "name": "💠┃搜狗[官源]", "type": 3,"api": "./api/drpy.min.js","jar":"./jars/xin.jar", "ext": "./js/菜狗.js" },
+
 {"key": "csp_AList", "name": "❄┃Alist合集 | 网盘", "type": 3,"playerType": 1,"api": "csp_AList",  "jar":"./jars/fm.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./lib/Alist.json"}, 
 
  {"key":"AliShare","name":"❄影视云盘 | 网盘","type":3,"api":"csp_AliShare","jar":"./jars/pg.jar","searchable":1,"quickSearch":0, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/alishare.txt$$$./lib/alitoken.txt$$$db$$$1","style": {"type": "list","ratio": 1.1}}, 
   
  {"key":"py_cctv_企鹅","name":"🏀┃体育┃直播","type":3,"api":"py_cctv_full","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://rihou.cc:88/hccx/py_企鹅体育.py"},
  
- {"key": "csp_Kanqiu","name": "⚽┃88看球", "type": 3, "api": "csp_Kanqiu", "jar":"./jars/88.jar", "searchable": 1,"quickSearch": 0, "filterable": 1, "changeable": 0 },
+ { "key": "csp_Kanqiu","name": "⚽┃88看球", "type": 3, "api": "csp_Kanqiu", "jar":"./jars/88.jar",  "searchable": 1, "quickSearch": 0, "filterable": 1, "changeable": 0  },
  
- {"key":"drpy_js_310直播","name":"⚽ | 310直播","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/310直播.js"},
+{"key":"drpy_js_310直播","name":"⚽ ┃ 310直播","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/310直播.js"},
  
   {"key":"评书","name":"🏮┃评   书","type":3,"searchable":0,"style":{"type":"rect","ratio":1.597},"quickSearch":0,"api":"csp_XBPQ","jar":"./jars/c.txt","ext":"./json/评书.json"},
  
@@ -178,6 +179,8 @@
 
  {"key":"极品短剧","name":"💢┃极品短剧","type":3,"api":"csp_Wexduanjuvmp","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;1ee361a1e82bb47bb7a9582055634ca3","searchable":1,"changeable":1},
  {"key":"软件","name":" 📗┃软件教程","type":3,"api":"csp_Bili","jar":"./jars/1694435460.txt","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/软件教程.json"},  
+
+ {"key":"bookan_book_open","name":"📗┃博看","type":3,"api":"./lib/MyCatBookan.js"},
  
  {"key": "学外语", "name": "📚┃学外语", "type": 3, "api": "csp_Bili", "searchable": 1, "quickSearch": 0, "filterable": 1, "ext": "./json/waiyu.json" },
 
@@ -212,12 +215,14 @@
  
  "parses":[
 {"name":"智能解析","type":2,"url":"Sequence"},
-{"name":"自动解析","type": 2,"url":"Parallel"}, 
 {"name": "JSON","type": 3, "url": "Demo" },
 {"name":"Web聚合","type":3,"url":"Web"},          
 { "name": "看看", "type": 0, "url": "https://jx.m3u8.pw/?url=" },
-{"name": "天微解析","type": 1,"url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=","ext": {"flag": ["seven"],"header": {"User-Agent": "Lavf/58.12.100"}}},
 {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},{"name":"xmflv","type":0,"url":"https://jx.xmflv.com/?url="},
+{"name":"bozrc","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}},
+{"name":"xmflv","type":0,"url":"https://jx.xmflv.com/?url="},
+{"name": "2号线", "type": 0, "url": "https://jx.777jiexi.com/player/?url=" },
+ {"name": "-虾米-", "type": 0,"url": "https://jx.xmflv.com/?url=", "ext": { "header": { "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"  }  } },
 {"name":"全看","type":0,"url":"https://jx.quankan.app/?url="},
 {"name":"★左岸★","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="}      
  ],
