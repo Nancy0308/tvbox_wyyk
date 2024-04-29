@@ -180,7 +180,8 @@
  ],
  
  "parses":[
-{"name":"Web聚合","type":3,"url":"Web"},          
+{"name": "☯️自动解析聚合","type": 3,"url": "Demo"},   
+ {"name": "🌎天招VIP2","type": 1, "url": "http://llyh.xn--yi7aa.top/api/?key=fc82dde9869c739e362a0b6fceb2195b&url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐", "letv","乐视","mgtv","芒果", "tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS", "YuMi-vip" ] } },                             
 { "name": "看看", "type": 0, "url": "https://jx.m3u8.pw/?url=" },
 {"name": "夜幕",	"type": 0,	"url": "https://www.yemu.xyz/?url="	},
 {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},{"name":"xmflv","type":0,"url":"https://jx.xmflv.com/?url="},
