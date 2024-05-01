@@ -1,8 +1,8 @@
 {"wallpaper":"http://我不是.肥猫.live/ppic/feimao.php",
 "spider":"./jars/spider.jar",
-"lives":[{"name":"live1",
+"lives":[{"name":"移动IPTV",
         "type":0,
-        "url":"./lib/live1.txt",
+        "url":"./tv/移动IPTV.txt",
         "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
         "logo":"https://epg.112114.xyz/logo/{name}.png"   
         }],
