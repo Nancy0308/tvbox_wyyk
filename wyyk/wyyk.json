@@ -51,11 +51,11 @@
 
  {"key":"快看","name":"🥈┃快看影视","type":3,"api":"csp_Kuaikan","jar":"./jars/fix1209.jar","searchable":1,"playerType":2,"quickSearch":0,"filterable":1}, 
  
- { "key": "Auete", "name": "🥈┃奥特影视", "type": 3, "api": "csp_Auete", "jar":"./jars/cc.jar","searchable": 1, "quickSearch": 0, "changeable": 1, "ext": "https://auete.pro/" }, 
+ { "key": "Auete", "name": "🥈┃奥特影视", "type": 3, "api": "csp_Auete", 🥈┃"searchable": 1, "quickSearch": 0, "changeable": 1, "ext": "https://auete.pro/" }, 
 
 {"key": "saohuo","name": "🥈┃骚火影视", "type": 3,"searchable": 1,"changeable": 0, "quickSearch": 0, "playerType": "2", "jar": "./jars/c.txt", "api": "csp_XBPQ", "ext": "./json/骚火影视.json" }, 
 
-  { "key": "Lib","name": "🥈┃立播直连","type": 3,"api": "csp_Libvio", "jar": "./jars/spiderbp.jar","timeout": 15, "searchable": 1, "quickSearch": 0, "changeable": 1, "ext": "https://www.libvio.pw/" },
+{"key": "白嫖","name": "🥈┃白嫖无广","type": 3,"api": "csp_BaiPiao", "jar":"./jars/moyu.php","playerType": 2, "searchable": 1, "quickSearch": 0,"changeable": 1,"ext": "https://www.baipiaoys.com:9092/" },
  
  {"key": "虎虎", "name": "🥈┃虎虎影视", "type": 3, "api": "csp_XBPQ","ext": "./json/虎虎.json" },
  
