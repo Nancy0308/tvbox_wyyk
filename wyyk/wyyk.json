@@ -138,8 +138,8 @@
  
  {"key":"秒播短剧","name":"💢┃秒播短剧","type":3,"api":"csp_Wexduanjuvop","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;1ee361a1e82bb47bb7a9582055634ca3","searchable":1,"changeable":1},
 
- {"key":"极品短剧","name":"💢┃极品短剧","type":3,"api":"csp_Wexduanjuvmp","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;1ee361a1e82bb47bb7a9582055634ca3","searchable":1,"changeable":1},
- 
+   {"key": "短剧之家","name": "💢┃短剧之家","type": 3,"api": "csp_XBPQ","ext": {"简介":"小林子祝您观影愉快","分类url": "http://www.rzjy985.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}/","分类": "短剧$douyinduanju#电视剧$dianshiju#韩剧$hanju#电影$dianying#动漫$dongman#综艺$zongyijiemu"}},   
+
  {"key":"软件","name":" 📗┃软件教程","type":3,"api":"csp_Bili","jar":"./jars/1694435460.txt","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/软件教程.json"},  
 
  {"key": "学外语", "name": "📚┃学外语", "type": 3, "api": "csp_Bili", "searchable": 1, "quickSearch": 0, "filterable": 1, "ext": "./json/waiyu.json" },
