@@ -29,7 +29,6 @@ CCTV-2 财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3
 CCTV-2 财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
 CCTV-2 财经,http://221.2.146.228:8888/newlive/live/hls/3/live.m3u8
 CCTV-2 财经,http://183.134.3.22:8888/newlive/live/hls/3/live.m3u8
-CCTV-3 综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$可回放
 CCTV-3 综艺,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226614/index.m3u8?icpid=88888888&servicetype=1
 CCTV-3 综艺,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226614/index.m3u8?icpid=88888888&servicetype=3&playseek=
 CCTV-3 综艺,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226614/index.m3u8?icpid=88888888&servicetype=2&npt=
