@@ -2,7 +2,7 @@
 "spider":"./jars/spider.jar",
 "lives":[{"name":"移动IPTV",
         "type":0,
-        "url":"./tv/移动IPTV.txt",
+        "url":"./tv/live直播.txt",
         "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
         "logo":"https://epg.112114.xyz/logo/{name}.png"   
         }],
