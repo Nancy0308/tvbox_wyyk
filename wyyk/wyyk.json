@@ -31,9 +31,9 @@
  
  {"key":"csp_黑狐","name":"🎖┃黑狐影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"filterable":1,"ext":"./json/heihu.json"},
  
- {"key":"天天","name":"🥇┃天天影视","type":3,"api":"csp_TTian","jar":"./jars/fix1209.jar","playerType":1,"ext":"http://op.ysdqjs.cn"},
+ {"key":"畅梦","name":"🎖┃畅梦影视","type":3,"api":"./js/drpy2.min.js","ext":"./js/changmeng.js"}, 
  
- {"key":"畅梦","name":"🥇┃畅梦影视","type":3,"api":"./js/drpy2.min.js","ext":"./js/changmeng.js"}, 
+ {"key":"天天","name":"🥇┃天天影视","type":3,"api":"csp_TTian","jar":"./jars/fix1209.jar","playerType":1,"ext":"http://op.ysdqjs.cn"},
  
  {"key": "小城影视","name": "🥇┃小城影视","type": 3,"api": "csp_NanGua", "searchable": 1, "changeable": 1 },     
  
@@ -78,7 +78,7 @@
  
  {"key": "云播影视", "name": "💠┃云播影视", "type": 3,"playerType": "2","api": "./js/drpy2.min.js","ext": "./js/TVB云播.js"},
  
- {"key": "小爱","name": "💠┃小爱影视","type": 1,"api": "http://laowang.co/api.php/provide/vod?","playUrl": "","searchable": 1,"quickSearch":0,"changeable": 1},
+ {"key": "drpy_厂长资源", "name": "💠┃厂长资源","type": 3, "api": "./js/drpy2.min.js","searchable": 0, "quickSearch": 0,"filterable": 0, "ext": "./js/厂长资源.js"},
 
  {  "key": "csp_xBPQ_秒", "name": "💠┃文才推荐²",  "type": 3,  "api": "csp_XBPQ", "searchable": 1, "quickSearch": 0,  "filterable": 0,  "ext": "./json/文才.json", "jar": "./jars/XBPQ2.jar"        },
    
