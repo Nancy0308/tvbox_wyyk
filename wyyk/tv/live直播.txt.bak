@@ -29,7 +29,6 @@ CCTV-2 财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3
 CCTV-2 财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
 CCTV-2 财经,http://221.2.146.228:8888/newlive/live/hls/3/live.m3u8
 CCTV-2 财经,http://183.134.3.22:8888/newlive/live/hls/3/live.m3u8
-CCTV-3 综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$可回放
 CCTV-3 综艺,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226614/index.m3u8?icpid=88888888&servicetype=1
 CCTV-3 综艺,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226614/index.m3u8?icpid=88888888&servicetype=3&playseek=
 CCTV-3 综艺,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226614/index.m3u8?icpid=88888888&servicetype=2&npt=
@@ -659,7 +658,7 @@ CCTV-3 中央三套,http://222.85.69.6/PLTV/88888888/224/3221226401/100001000000
 CCTV-4 中央四套,http://222.85.69.6/PLTV/88888888/224/3221227050/index.m3u8?icpid=88888888&servicetype=1
 CCTV-4 中央四套,rtp://239.16.10.128:2000
 CCTV-4 中央四套,http://222.85.69.6/TVOD/88888888/224/3221227050/index.m3u8?icpid=88888888&servicetype=3&playseek=
-CCTV-4 中央套,http://222.85.69.6/TVOD/88888888/224/3221226512/10000100000000060000000000414186_0.smil/index.m3u8?fmt=ts2hls&servicetype=
+CCTV-4 中央四套,http://222.85.69.6/TVOD/88888888/224/3221226512/10000100000000060000000000414186_0.smil/index.m3u8?fmt=ts2hls&servicetype=
 CCTV-4 中央四套,http://222.85.69.6/PLTV/88888888/224/3221227050/index.m3u8?icpid=88888888&servicetype=2&npt=
 CCTV-4 中央四套,http://222.85.69.6/PLTV/88888888/224/3221226512/10000100000000060000000000414186_0.smil/index.m3u8?
 CCTV-5 中央五套,http://222.85.69.6/PLTV/88888888/224/3221227047/index.m3u8?icpid=88888888&servicetype=1
