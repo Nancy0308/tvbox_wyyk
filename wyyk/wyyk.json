@@ -53,7 +53,7 @@
 
 {"key": "saohuo","name": "🥈┃骚火影视", "type": 3,"searchable": 1,"changeable": 0, "quickSearch": 0, "playerType": "2", "jar": "./jars/c.txt", "api": "csp_XBPQ", "ext": "./json/骚火影视.json" }, 
 
-{"key": "白嫖","name": "🥈┃白嫖无广","type": 3,"api": "csp_BaiPiao", "jar":"./jars/moyu.php","playerType": 2, "searchable": 1, "quickSearch": 0,"changeable": 1,"ext": "https://www.baipiaoys.com:9092/" },
+ { "key": "sp360","name": "🥈┃360影视","type": 3, "api": "csp_Sp360", "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable": 1, "filterable": 1,"changeable": 1,"timeout": 25 },
  
  {"key": "虎虎", "name": "🥈┃虎虎影视", "type": 3, "api": "csp_XBPQ","ext": "./json/虎虎.json" },
  
