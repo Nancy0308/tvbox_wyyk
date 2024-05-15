@@ -76,7 +76,7 @@
 
  {"key":"量子资源","name":"💠┃量子资源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"filterable":1,"ext":"./json/lzzy.json"},
  
- {"key": "云播影视", "name": "💠┃云播影视", "type": 3,"playerType": "2","api": "./js/drpy2.min.js","ext": "./js/TVB云播.js"},
+{ "key": "金鱼影视", "name": "💠┃金鱼影视", "type": 3,"api": "csp_XBPQ","jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php","searchable": 1, "quickSearch": 1,"filterable": 1, "ext": "http://我不是.摸鱼儿.top/by/api/金鱼.php"  },
  
  {"key": "drpy_厂长资源", "name": "💠┃厂长资源","type": 3, "api": "./js/drpy2.min.js","searchable": 0, "quickSearch": 0,"filterable": 0, "ext": "./js/厂长资源.js"},
 
