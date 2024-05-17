@@ -31,13 +31,13 @@
  
  {"key":"csp_黑狐","name":"🎖┃黑狐影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"filterable":1,"ext":"./json/heihu.json"},
  
- {"key":"畅梦","name":"🎖┃畅梦影视","type":3,"api":"./js/drpy2.min.js","ext":"./js/changmeng.js"}, 
+  {"key": " 星辰影","name": "🎖┃星辰纯净","type": 3, "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php", "api": "csp_XBPQ","searchable": 1, "quickSearch": 0,"filterable": 1, "ext": {"分类url": "https://www.qidun.cc/vodshow/{cateId}-{area}----{letter}---{catePg}---{yaer}.html","分类": "电影&电视剧&动漫&综艺&短句", "分类值": "fenlei2&fenlei1&fenlei3&fenlei4&duanju"  } },
  
  {"key":"天天","name":"🥇┃天天影视","type":3,"api":"csp_TTian","jar":"./jars/fix1209.jar","playerType":1,"ext":"http://op.ysdqjs.cn"},
  
  {"key": "小城影视","name": "🥇┃小城影视","type": 3,"api": "csp_NanGua", "searchable": 1, "changeable": 1 },     
  
- {"key": " 星辰影","name": "🥇┃星辰纯净","type": 3, "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php", "api": "csp_XBPQ","searchable": 1, "quickSearch": 0,"filterable": 1, "ext": {"分类url": "https://www.qidun.cc/vodshow/{cateId}-{area}----{letter}---{catePg}---{yaer}.html","分类": "电影&电视剧&动漫&综艺&短句", "分类值": "fenlei2&fenlei1&fenlei3&fenlei4&duanju"  } },
+ {"key":"畅梦","name":"🥇┃畅梦影视","type":3,"api":"./js/drpy2.min.js","ext":"./js/changmeng.js"}, 
 
  {"key": "鑫鑫影视", "name": "🥇┃鑫鑫影视", "type": 3,"api": "csp_AppYsV2", "searchable": 1, "quickSearch": 0, "filterable": 1, "ext": "http://yingszj.xn--654a.cc/api.php/app/" },
  
