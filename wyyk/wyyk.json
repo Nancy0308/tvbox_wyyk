@@ -51,7 +51,7 @@
  
  {"key": "csp_Auete","name": "🥈┃奥特影视","type": 3, "api": "csp_Auete", "jar":"./jars/PandaQ240416.jar","searchable": 1, "quickSearch": 1, "filterable": 1 },
 
-{"key": "saohuo","name": "🥈┃骚火影视", "type": 3,"searchable": 1,"changeable": 0, "quickSearch": 0, "playerType": "2", "jar": "./jars/c.txt", "api": "csp_XBPQ", "ext": "./json/骚火影视.json" }, 
+{ "key": "金鱼影视", "name": "🥈┃金鱼影视", "type": 3,"api": "csp_XBPQ","jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php","searchable": 1, "quickSearch": 1,"filterable": 1, "ext": "http://我不是.摸鱼儿.top/by/api/金鱼.php"  },
 
  { "key": "sp360","name": "🥈┃360影视","type": 3, "api": "csp_Sp360", "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable": 1, "filterable": 1,"changeable": 1,"timeout": 25 },
  
@@ -76,8 +76,6 @@
 
  {"key":"量子资源","name":"💠┃量子资源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"filterable":1,"ext":"./json/lzzy.json"},
  
-{ "key": "金鱼影视", "name": "💠┃金鱼影视", "type": 3,"api": "csp_XBPQ","jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php","searchable": 1, "quickSearch": 1,"filterable": 1, "ext": "http://我不是.摸鱼儿.top/by/api/金鱼.php"  },
- 
  {"key": "drpy_厂长资源", "name": "💠┃厂长资源","type": 3, "api": "./js/drpy2.min.js","searchable": 0, "quickSearch": 0,"filterable": 0, "ext": "./js/厂长资源.js"},
 
  {  "key": "csp_xBPQ_秒", "name": "💠┃文才推荐²",  "type": 3,  "api": "csp_XBPQ", "searchable": 1, "quickSearch": 0,  "filterable": 0,  "ext": "./json/文才.json", "jar": "./jars/XBPQ2.jar"        },
@@ -93,6 +91,7 @@
   {"key":"drpy_js_腾云驾雾","name":"💠┃腾云驾雾","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"},
         
   {"key":"drpy_js_百忙无果","name":"💠┃百忙无果","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"},
+  { "key": "drpy_js_菜狗","name": "💠┃搜狗影视","type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/菜狗.js" },
 
 {"key": "csp_AList", "name": "❄┃Alist合集 | 网盘", "type": 3,"playerType": 1,"api": "csp_AList",  "jar":"./jars/fm.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./lib/Alist.json"}, 
 
