@@ -51,8 +51,8 @@
  
  {"key": "csp_Auete","name": "🥈┃奥特影视","type": 3, "api": "csp_Auete", "jar":"./jars/PandaQ240416.jar","searchable": 1, "quickSearch": 1, "filterable": 1 },
 
-{ "key": "金鱼影视", "name": "🥈┃金鱼影视", "type": 3,"api": "csp_XBPQ","jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php","searchable": 1, "quickSearch": 1,"filterable": 1, "ext": "http://我不是.摸鱼儿.top/by/api/金鱼.php"  },
-
+ {"key": "酷影视", "name": "🥈┃酷影影视","type": 3,"api": "csp_AppYsV2", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/" },
+ 
  {  "key": "csp_xBPQ_秒", "name": "🥈┃文才推荐²",  "type": 3,  "api": "csp_XBPQ", "searchable": 1, "quickSearch": 0,  "filterable": 0,  "ext": "./json/文才.json", "jar": "./jars/XBPQ2.jar"        },
  
  {"key": "虎虎", "name": "🥈┃虎虎影视", "type": 3, "api": "csp_XBPQ","ext": "./json/虎虎.json" },
