@@ -585,8 +585,8 @@ CGTN,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226587/index.m3u8?
 河南卫视4K,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226526/index.m3u8?icpid=88888888&servicetype=3&playseek=
 河南卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8?icpid=88888888&servicetype=2&npt=
 河南国际频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226588/index.m3u8?icpid=88888888&servicetype=1
-河南国际频道http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226588/index.m3u8?icpid=88888888&servicetype=3&playseek=
-河南国际频道http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226588/index.m3u8?icpid=88888888&servicetype=2&npt=
+河南国际频道,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226588/index.m3u8?icpid=88888888&servicetype=3&playseek=
+河南国际频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226588/index.m3u8?icpid=88888888&servicetype=2&npt=
 河南民生频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226685/index.m3u8?icpid=88888888&servicetype=1
 河南民生频道,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226685/index.m3u8?icpid=88888888&servicetype=3&playseek=
 河南民生频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226685/index.m3u8?icpid=88888888&servicetype=2&npt=
