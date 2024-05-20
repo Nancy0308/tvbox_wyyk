@@ -1,5 +1,5 @@
 
-🔴  移动央视频道,#genre#
+🔴  移动央视IPTV,#genre#
 CCTV-1 综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226706/index.m3u8?icpid=88888888&servicetype=1
 CCTV-1 综合,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226706/index.m3u8?icpid=88888888&servicetype=3&playseek=
 CCTV-1 综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226706/index.m3u8?icpid=88888888&servicetype=2&npt=
@@ -577,7 +577,7 @@ CGTN,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226587/index.m3u8?
 七彩戏剧,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226583/index.m3u8?icpid=88888888&servicetype=3&playseek=
 七彩戏剧,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226583/index.m3u8?icpid=88888888&servicetype=2&npt=
 
-🐘  移动省内频道,#genre#
+🔴  移动省内频道,#genre#
 
 河南卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8?icpid=88888888&servicetype=1
 河南卫视4K,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226526/index.m3u8?icpid=88888888&servicetype=3&playseek=
@@ -635,7 +635,7 @@ CGTN,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226587/index.m3u8?
 国学频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226629/index.m3u8?icpid=88888888&servicetype=2&npt=
 
 
-🔵  电信央视频道,#genre#
+🔵  电信央视IPTV,#genre#
 
 CCTV-1 中央一套, http://222.85.69.6/PLTV/88888888/224/3221227052/index.m3u8?icpid=88888888&servicetype=1
 CCTV-1 中央一套,  rtp://239.16.10.1:2000
@@ -956,7 +956,7 @@ CCTV17 中央十七套,http://222.85.69.6/PLTV/88888888/224/3221226551/100001000
 炫动卡通,http://222.85.69.6/TVOD/88888888/224/3221227002/index.m3u8?icpid=88888888&servicetype=3&playseek=
 炫动卡通,http://222.85.69.6/TVOD/88888888/224/3221226538/10000100000000060000000000428984
 
-🐘  电信省内频道,#genre#
+🔵  电信省内频道,#genre#
 
 河南IPTV-导视,http://222.85.69.6/PLTV/88888888/224/3221227087/index.m3u8?icpid=88888888&servicetype=1
 河南IPTV-导视,rtp://239.16.10.218:2000
@@ -1064,7 +1064,7 @@ CCTV17 中央十七套,http://222.85.69.6/PLTV/88888888/224/3221226551/100001000
 梨园频道,http://222.85.69.6/PLTV/88888888/224/3221226996/index.m3u8?icpid=88888888&servicetype=2&npt=
 梨园频道,http://222.85.69.6/PLTV/88888888/224/3221226544/10000100000000060000000000429017_0.smil/index.m3u8?
 
-🔶  通用央视高清,#genre#
+🔶  IPV6央视高清,#genre#
 
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$可回放
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8$可回放
@@ -1084,6 +1084,40 @@ CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8$
 CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8$可回放
 CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$可回放
 CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$可回放
+
+🔶 IPV6卫视高清,#genre#
+
+北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8$可回放
+北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8$可回放
+东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8$可回放
+东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8$可回放
+江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8$可回放
+江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8$可回放
+浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8$可回放
+浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8$可回放
+深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8$可回放
+深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8$可回放
+湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8$可回放
+湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8$可回放
+山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8$可回放
+河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8$可回放
+河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8$可回放
+贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8$可回放
+天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8$可回放
+天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8$可回放
+东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8$可回放
+安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8$可回放
+广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8$可回放
+湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8$可回放
+湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8$可回放
+四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8$可回放
+重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8$可回放
+江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8$可回放
+海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8$可回放
+吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8$可回放
+辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8$可回放
+黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8$可回放
+
 
 🌴 通用港澳台频道,#genre#
 
