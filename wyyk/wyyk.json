@@ -33,7 +33,7 @@
  
   {"key": " 星辰影","name": "🎖┃星辰纯净","type": 3, "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php", "api": "csp_XBPQ","searchable": 1, "quickSearch": 0,"filterable": 1, "ext": {"分类url": "https://www.qidun.cc/vodshow/{cateId}-{area}----{letter}---{catePg}---{yaer}.html","分类": "电影&电视剧&动漫&综艺&短句", "分类值": "fenlei2&fenlei1&fenlei3&fenlei4&duanju"  } },
  
- {"key":"天天","name":"🥇┃天天影视","type":3,"api":"csp_TTian","jar":"./jars/fix1209.jar","playerType":1,"ext":"http://op.ysdqjs.cn"},
+ {"key": "策驰影院", "name": "🥇┃策驰影院", "type": 3, "api": "csp_XBPQ", "searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "./json/cechi.json"},
  
  {"key": "小城影视","name": "🥇┃小城影视","type": 3,"api": "csp_NanGua", "searchable": 1, "changeable": 1 },     
  
@@ -59,8 +59,8 @@
  
  {"key": "金曼TV","name": "🥈┃金曼影视 ","type": 3,"api": "csp_XBPQ", "jar":"./jars/HeChengChaXiu.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./json/金曼TV.json"},
 
- {"key": "策驰影院", "name": "🥈┃策驰影院", "type": 3, "api": "csp_XBPQ", "searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "./json/cechi.json"},
-
+{"key":"天天","name":"🥈┃天天影视","type":3,"api":"csp_TTian","jar":"./jars/fix1209.jar","playerType":1,"ext":"http://op.ysdqjs.cn"},
+ 
  {"key": "茶杯狐", "name": "💠┃茶杯狐", "type": 3, "api": "https://raw.cachefly.998111.xyz/ouhaibo1980/tvbox/master/js/nxog.js", "searchable": 1, "quickSearch": 0, "filterable": 0, "ext": "https://raw.cachefly.998111.xyz/ouhaibo1980/tvbox/master/js/茶杯狐.js" },
 
  {"key":"珍品","name":"💠┃珍品影视","type":3,"api":"csp_XBPQ","ext":"./json/珍品.json","jar":"./jars/xbpq新版.jar"},
