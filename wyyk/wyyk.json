@@ -50,7 +50,7 @@
  
  {"key": "csp_Auete","name": "💠┃奥特影视","type": 3, "api": "csp_Auete", "jar":"./jars/PandaQ240416.jar","searchable": 1, "quickSearch": 1, "filterable": 1 },
 
-{"key": "小鸭影音","name": "💠┃小鸭影音","type": 3,"api": "csp_XBPQ","ext": {"简介":"小林子为您剧情介绍: +stui-content__desc col-pd clearfix\">&&</div>","分类url": "https://777tv.ai/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电视剧$2#电影$1#动漫$30#综艺$29"}},
+{"key": "小鸭影音","name": "💠┃小鸭影音","type": 3,"api": "csp_XBPQ","ext": {"简介":"小林子为您剧情介绍: +stui-content__desc col-pd clearfix\">&&</div>","分类url": "https://777tv.ai/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$2#电视剧$1#动漫$30#综艺$29"}},
  
  {  "key": "csp_xBPQ_秒", "name": "💠┃文才影视",  "type": 3,  "api": "csp_XBPQ", "searchable": 1, "quickSearch": 0,  "filterable": 0,  "ext": "./json/文才.json", "jar": "./jars/XBPQ2.jar"        },
  
