@@ -1,6 +1,6 @@
 [
 {"name":"推荐","list":[
-{"name":"『网游鹰』免费分享持续更新","url":"","icon":"https://cloud.lxweb.cn/f/rLWDhE/%E9%9B%84%E9%B9%B0.jpg","version":""}]},
+{"name":"『网游鹰』免费分享持续更新","url":"","icon":"https://cloud.lxweb.cn/f/rLWDhE/%E9%9B%84%E9%B9%B0.jpg&&&https://cloud.lxweb.cn/f/rLWDhE/%E9%9B%84%E9%B9%B0.jpg","version":""}]},
 
 {"name":"最新apk软件","list":[
 {"name":"影视仓","url":"https://cloud.lxweb.cn/f/De7nS1/%E5%BD%B1%E8%A7%86%E4%BB%93_5.0.29.apk","icon":"https://cloud.lxweb.cn/f/9kNkI1/%E5%BD%B1%E8%A7%86%E4%BB%93.jpg","version":"5.0.29版"},
@@ -69,8 +69,10 @@
 {"name":"春盈天下","url":"https://cloud.lxweb.cn/f/XkkETK/%E6%98%A5%E7%9B%88%E5%A4%A9%E4%B8%8B_%E6%98%A5%E7%9B%882.0_1.apk","icon":"https://cloud.lxweb.cn/f/1zzjce/%E6%98%A5%E7%9B%88%E5%A4%A9%E4%B8%8B2.0.1.png","version":"春盈天下内置2.0.1版"},
 {"name":"大师兄app","url":"https://cloud.lxweb.cn/f/M0zNUG/%E5%A4%A7%E5%B8%88%E5%85%84%E5%BD%B1%E8%A7%86V3.3.3%E5%AE%89%E5%8D%93%E7%BA%AF%E5%87%80%E7%89%88.apk","icon":"https://cloud.lxweb.cn/f/6L0xcw/%E5%A4%A7%E5%B8%88%E5%85%84.png","version":"大师兄V3.3.3手机版"},
 {"name":"龍門影视珍藏版","url":"https://cloud.lxweb.cn/f/PkkDib/%E9%BE%8D%E9%96%80%E5%BD%B1%E8%A7%86%E7%8F%8D%E8%97%8F%E7%89%88.apk","icon":"https://cloud.lxweb.cn/f/L222UD/%E9%BE%99%E9%97%A8.png","version":"龍門影视珍藏版"},
-{"name":"如意视界","url":"https://cloud.lxweb.cn/f/pGR0se/%E5%A6%82%E6%84%8F%E8%A7%86%E7%95%8C9.6.0%E5%86%85%E7%BD%AE%E5%BD%B1%E8%A7%86%E8%BD%AF%E4%BB%B6.apk","icon":"https://cloud.lxweb.cn/f/KE8OTX/%E5%A6%82%E6%84%8F%E7%94%B5%E8%A7%86.png","version":"如意视界内置9.6.0手机版"}
-
+{"name":"如意视界","url":"https://cloud.lxweb.cn/f/pGR0se/%E5%A6%82%E6%84%8F%E8%A7%86%E7%95%8C9.6.0%E5%86%85%E7%BD%AE%E5%BD%B1%E8%A7%86%E8%BD%AF%E4%BB%B6.apk","icon":"https://cloud.lxweb.cn/f/KE8OTX/%E5%A6%82%E6%84%8F%E7%94%B5%E8%A7%86.png","version":"如意视界内置9.6.0手机版"},
+{"name":"闪电影视盒","url":"https://cloud.lxweb.cn/f/AEwMFa/%E9%97%AA%E7%94%B5%E5%BD%B1%E8%A7%86%E7%9B%92.apk","icon":"https://cloud.lxweb.cn/f/Byxyi9/%E9%97%AA%E7%94%B5%E5%BD%B1%E8%A7%86%E7%9B%92.png","version":"闪电影视盒内置版"},
+{"name":"ok影视","url":"https://cloud.lxweb.cn/f/ab7ef6/ok%E5%BD%B1%E8%A7%86.apk","icon":"https://cloud.lxweb.cn/f/ngGNf6/OK.png","version":"ok影视内置版"},
+{"name":"牛马影视","url":"https://cloud.lxweb.cn/f/Nw0gIR/%E7%89%9B%E9%A9%AC%E5%BD%B1%E4%BB%93%205.0.28%201.apk","icon":"https://cloud.lxweb.cn/f/m2qeTj/%E7%89%9B%E9%A9%AC.png","version":"牛马影视内置版"}
 ]},
 
 {"name":"安卓4系列专区","list":[
