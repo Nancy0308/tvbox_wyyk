@@ -10,7 +10,30 @@
  {"key":"csp_DouDou","name":"🦅 网游鹰在线影视💖","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1,"jar":"./jars/wyyzx.jar"},
  
  {"key":"网盘配置","name":"💻┃配置中心","type":3,"api":"csp_Config","jar":"./jars/pg.jar","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"./json/tokenm.json"},
+  {"key":"csp_XBPQ_全能影院",
+  "name":"👒┃全能影院XBPQ",
+  "type":3,
+  "api":"csp_XBPQ",  
+  "jar": "./jars/XBPQ.jar",
+  "searchable": 1,
+  "quickSearch": 0,
+  "filterable": 1,
+  "ext":{
+  "分类url":"http://www.qnkkk.com/mlist/{cateId}{class}{area}{by}{year}.html",
+  "分类":"最新动作片$1#最新喜剧片$2#最新爱情片$3#最新恐怖片$4#最新科幻片$5#最新动画片$6#最新剧情片$7#最新战争片$9#最新海外剧$15#最新综艺娱乐$8"}},
  
+  {"key":"csp_XBPQ_字母圈",
+   "name":"👒字母圈影视┃XBPQ",
+   "type":3,
+   "api":"csp_XBPQ",   
+   "jar": "./jars/XBPQ.jar",
+   "searchable": 1,
+   "quickSearch": 0,
+   "filterable": 1,
+    "playUrl":"",
+   "ext":{  "主页url":"https://zimu.app/",    "分类": "字母圈$1#国产$2#AV$3#伦理片$36#传媒影视$5#动漫$4",    "分类url": "https://zimu.app/vodsearch/tag/{cateId}{class}.html"},"搜索链接前缀":"https://zimu.app",
+"搜索链接后缀":"-1-1.html","播放链接前缀":"https://zimu.app","播放数组":"class=\"title&&</div>"},
+
  {"key":"应用商店","name":"🏫┃应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./json/yysd.json","jar":"./jars/应用市场.jar"},
 
  { "key": "直播转点播", "name": "📡┃电视直播台", "type": 3,"searchable": 0, "api": "./tv/网游鹰直播vod.js", "ext": "./tv/网游鹰直播.json" },
@@ -182,7 +205,50 @@
 {"name":"-全看-","type":0,"url":"https://jx.quankan.app/?url="},
 {"name":"-左岸-","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="}      
  ],
- 
+  "doh": [
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.4.4",
+        "8.8.8.8"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ]
+    },
+    {
+      "name": "AdGuard",
+      "url": "https://dns.adguard.com/dns-query",
+      "ips": [
+        "94.140.14.140",
+        "94.140.14.141"
+      ]
+    },
+    {
+      "name": "DNSWatch",
+      "url": "https://resolver2.dns.watch/dns-query",
+      "ips": [
+        "84.200.69.80",
+        "84.200.70.40"
+      ]
+    },
+    {
+      "name": "Quad9",
+      "url": "https://dns.quad9.net/dns-quer",
+      "ips": [
+        "9.9.9.9",
+        "149.112.112.112"
+      ]
+    }
+  ],
  "rules":[{"name":"proxy","hosts":["raw.githubusercontent.com","googlevideo.com","cdn.v82u1l.com","cdn.iz8qkg.com","cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","haiwaikan.com","www.histar.tv","youtube.com","uhibo.com",".*boku.*",".*nivod.*",".*ulivetv.*"]},{"name":"海外看","hosts":["haiwaikan"],"regex":["8.1748","10.0099","10.3333","16.0599"]},{"name":"暴風","hosts":["bfzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},{"name":"星星","hosts":["aws.ulivetv.net"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},{"name":"量子","hosts":["vip.lz","hd.lz","v.cdnlz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},{"name":"非凡","hosts":["vip.ffzy","hd.ffzy"],"regex":["25.0666"]},{"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},{"name":"蚂蚁","hosts":["v.cdnlz1.com"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},{"name":"索尼","hosts":["suonizy"],"regex":["15.1666"]},{"name":"一起看","hosts":["yqk88"],"regex":["18.4666"]},{"name":"一起看","hosts":["yqk88"],"regex":["15.1666"]},{"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]},{"name":"農民嗅探","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]}],
   
   "ijk":[{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"categoy":4,"name":"soundtouch","value":"1"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"0"},{"category":4,"name":"mediacodec-auto-rotate","value":"0"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},{"category":4,"name":"mediacodec-hevc","value":"0"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},{"group":"硬解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"1"},{"category":4,"name":"mediacodec-auto-rotate","value":"1"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},{"category":4,"name":"mediacodec-hevc","value":"1"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],
