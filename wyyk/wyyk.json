@@ -10,30 +10,7 @@
  {"key":"csp_DouDou","name":"🦅 网游鹰在线影视💖","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1,"jar":"./jars/wyyzx.jar"},
  
  {"key":"网盘配置","name":"💻┃配置中心","type":3,"api":"csp_Config","jar":"./jars/pg.jar","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"./json/tokenm.json"},
-  {"key":"csp_XBPQ_全能影院",
-  "name":"👒┃全能影院XBPQ",
-  "type":3,
-  "api":"csp_XBPQ",  
-  "jar": "./jars/XBPQ.jar",
-  "searchable": 1,
-  "quickSearch": 0,
-  "filterable": 1,
-  "ext":{
-  "分类url":"http://www.qnkkk.com/mlist/{cateId}{class}{area}{by}{year}.html",
-  "分类":"最新动作片$1#最新喜剧片$2#最新爱情片$3#最新恐怖片$4#最新科幻片$5#最新动画片$6#最新剧情片$7#最新战争片$9#最新海外剧$15#最新综艺娱乐$8"}},
- 
-  {"key":"csp_XBPQ_字母圈",
-   "name":"👒字母圈影视┃XBPQ",
-   "type":3,
-   "api":"csp_XBPQ",   
-   "jar": "./jars/XBPQ.jar",
-   "searchable": 1,
-   "quickSearch": 0,
-   "filterable": 1,
-    "playUrl":"",
-   "ext":{  "主页url":"https://zimu.app/",    "分类": "字母圈$1#国产$2#AV$3#伦理片$36#传媒影视$5#动漫$4",    "分类url": "https://zimu.app/vodsearch/tag/{cateId}{class}.html"},"搜索链接前缀":"https://zimu.app",
-"搜索链接后缀":"-1-1.html","播放链接前缀":"https://zimu.app","播放数组":"class=\"title&&</div>"},
-
+  
  {"key":"应用商店","name":"🏫┃应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./json/yysd.json","jar":"./jars/应用市场.jar"},
 
  { "key": "直播转点播", "name": "📡┃电视直播台", "type": 3,"searchable": 0, "api": "./tv/网游鹰直播vod.js", "ext": "./tv/网游鹰直播.json" },
