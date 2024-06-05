@@ -63,7 +63,7 @@
 
 {"key":"天天","name":"💠┃天天影视","type":3,"api":"csp_TTian","jar":"./jars/fix1209.jar","playerType":1,"ext":"http://op.ysdqjs.cn"},
  
- {"key": "茶杯狐", "name": "💠┃茶杯影视", "type": 3, "api": "https://raw.cachefly.998111.xyz/ouhaibo1980/tvbox/master/js/nxog.js", "searchable": 1, "quickSearch": 0, "filterable": 0, "ext": "https://raw.cachefly.998111.xyz/ouhaibo1980/tvbox/master/js/茶杯狐.js" },
+ {"key":"csp_XBPQ_全能影院","name":"💠┃全能影院","type":3,"api":"csp_XBPQ",  "jar": "./jars/XBPQ.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"分类url":"http://www.qnkkk.com/mlist/{cateId}{class}{area}{by}{year}.html","分类":"最新动作片$1#最新喜剧片$2#最新爱情片$3#最新恐怖片$4#最新科幻片$5#最新动画片$6#最新剧情片$7#最新战争片$9#最新海外剧$15#最新综艺娱乐$8"}},
 
  {"key":"珍品","name":"💠┃珍品影视","type":3,"api":"csp_XBPQ","ext":"./json/珍品.json","jar":"./jars/xbpq新版.jar"},
  
@@ -174,6 +174,7 @@
 { "name":"-看看-","type":0,"url":"https://jx.m3u8.pw/?url="},
 {"name": "-夜幕-","type":0,"url":"https://www.yemu.xyz/?url="},
 {"name":"-777-","type":0,"url":"https://jx.777jiexi.com/player/?url="},
+{"name":"xyz","type":0,"url":"https://svip.cygc.xyz/api/?key=cygctest&url="},
 {"name": "巧技","type": 1,"url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"]}},
 {"name": "巧技二","type": 1,"url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"]}},
 {"name":"-bozrc-","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}},
