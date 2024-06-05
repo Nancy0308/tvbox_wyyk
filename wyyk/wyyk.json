@@ -36,22 +36,22 @@
  
   {"key": " 星辰影","name": "🎖┃星辰影视","type": 3, "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php", "api": "csp_XBPQ","searchable": 1, "quickSearch": 0,"filterable": 1, "ext": {"分类url": "https://www.qidun.cc/vodshow/{cateId}-{area}----{letter}---{catePg}---{yaer}.html","分类": "电影&电视剧&动漫&综艺&短句", "分类值": "fenlei2&fenlei1&fenlei3&fenlei4&duanju"  } },
  
- {"key": "策驰影院", "name": "🥇┃策驰影院", "type": 3, "api": "csp_XBPQ", "searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "./json/cechi.json"},
+ {"key": "可可","name": " 🎖┃可可影视","type": 3,"playerType": "2","api": "csp_Keke","jar":"./jars/PandaQ240605.jar","searchable": 1, "quickSearch": 1,"filterable": 1},
  
  {"key": "小城影视","name": "🥇┃小城影视","type": 3,"api": "csp_NanGua", "searchable": 1, "changeable": 1 },     
  
  {"key":"畅梦","name":"🥇┃畅梦影视","type":3,"api":"./js/drpy2.min.js","ext":"./js/changmeng.js"}, 
 
- {"key": "悠云影视","name": "🥇┃悠云影视","type": 3,"changeable": 1, "searchable": 1, "quickSearch": 1,"filterable": 1,"api": "csp_XBPQ","ext": {"主页url": "https://yoyys1.com/","副标题": "pic-text text-right\">&&</b>","图片": "data-original=\"&&\"","嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos","搜索url": "https://yoyys1.com/vodsearch/-------------.html?wd={wd}","影片类型": "<div class=\"module-info-tag\">&&立即播放","跳转播放链接": "var now=\"&&\"","导演": "导演：&&</div>","主演": "主演：&&</div>","分类": "电影$1#电视剧$2#综艺$3#动漫$4","分类url":"https://yoyys1.com/vodshow/{cateId}-{area}--{class}-{lang}----{catePg}---{year}.html" }}, 
+ {"key": "悠云影视","name": "🥇┃悠云影视","type": 3,"changeable": 1, "searchable": 1, "quickSearch": 0,"filterable": 1,"api": "csp_XBPQ","ext": {"主页url": "https://yoyys1.com/","副标题": "pic-text text-right\">&&</b>","图片": "data-original=\"&&\"","嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos","搜索url": "https://yoyys1.com/vodsearch/-------------.html?wd={wd}","影片类型": "<div class=\"module-info-tag\">&&立即播放","跳转播放链接": "var now=\"&&\"","导演": "导演：&&</div>","主演": "主演：&&</div>","分类": "电影$1#电视剧$2#综艺$3#动漫$4","分类url":"https://yoyys1.com/vodshow/{cateId}-{area}--{class}-{lang}----{catePg}---{year}.html" }}, 
  {"key":"Xinsj","name":"🥇┃视觉影视","type":3,"api":"csp_Xinsj","jar":"./jars/fan.txt","timeout":15,"searchable":1,"quickSearch":0,"changeable":1,"ext":"https://www.80yy3.com/"},
  
  {"key": "双黄", "name": "🥇┃双黄影视", "type": 3,"api": "csp_XBPQ","jar":"./jars/c.txt","ext": "./json/双黄.json" },
  
- {"key": "片吧影院","name": "💠┃片吧影视", "type": 3, "api": "csp_XBPQ","searchable": 1,"quickSearch": 1, "filterable": 1, "ext": { "分类url": "https://www.pbgoo.com/class/{cateId}--{area}--{lang}----{catePg}---{year}.html", "分类": "电影&电视剧&综艺&动漫", "分类值": "1&2&4&3"} },
+ {"key": "片吧影院","name": "💠┃片吧影视", "type": 3, "api": "csp_XBPQ","searchable": 1,"quickSearch": 0, "filterable": 1, "ext": { "分类url": "https://www.pbgoo.com/class/{cateId}--{area}--{lang}----{catePg}---{year}.html", "分类": "电影&电视剧&综艺&动漫", "分类值": "1&2&4&3"} },
 
  {"key":"快看","name":"💠┃快看影视","type":3,"api":"csp_Kuaikan","jar":"./jars/fix1209.jar","searchable":1,"playerType":2,"quickSearch":0,"filterable":1}, 
  
- {"key": "csp_Auete","name": "💠┃奥特影视","type": 3, "api": "csp_Auete", "jar":"./jars/PandaQ240416.jar","searchable": 1, "quickSearch": 1, "filterable": 1 },
+ {"key": "csp_Auete","name": "💠┃奥特影视","type": 3, "api": "csp_Auete", "jar":"./jars/PandaQ240416.jar","searchable": 1, "quickSearch": 0, "filterable": 1 },
 
 {"key": "小鸭影音","name": "💠┃小鸭影音","type": 3,"api": "csp_XBPQ","ext": {"简介":"小林子为您剧情介绍: +stui-content__desc col-pd clearfix\">&&</div>","分类url": "https://777tv.ai/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$2#电视剧$1#动漫$30#综艺$29"}},
  
