@@ -96,6 +96,22 @@
  
  { "key": "drpy_js_菜狗","name": " ♦┃官源 | 搜狗","type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/菜狗.js" },
 
+   {
+      "key": "金鹰",
+      "name": "🦄金鹰┃资源",
+      "type": 1,
+      "searchable":1,
+      "quickSearch":0,
+      "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json",
+      "playUrl":"json:http://api.suxun.site/api/delad?url=",
+     "categories":["电影","电视剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动漫","动画片","中国动漫","日本动漫","欧美动漫","综艺","内地剧","台湾剧","港台剧","马泰剧","韩剧","欧美剧","香港剧"]
+    },
+  {
+"key": "飞速资源",
+"name": "🌿飞速┃采集",
+"type": 1,
+"api":"https://feisuzy.com/api.php/provide/vod/"
+},
 {
     "key":"csp_提莫影视",
     "name":"🌈提莫影院",
@@ -144,16 +160,7 @@
   "分类url": "https://www.pbgoo.com/class/{cateId}--{area}--{lang}----{catePg}---{year}.html",
    "分类": "电影&电视剧&动漫&综艺", "分类值": "1&2&3&4"
 }},
-    {
-      "key": "金鹰",
-      "name": "🦄金鹰┃资源",
-      "type": 1,
-      "searchable":1,
-      "quickSearch":0,
-      "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json",
-      "playUrl":"json:http://api.suxun.site/api/delad?url=",
-     "categories":["电影","电视剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动漫","动画片","中国动漫","日本动漫","欧美动漫","综艺","内地剧","台湾剧","港台剧","马泰剧","韩剧","欧美剧","香港剧"]
-    },
+ 
 {
     "key":"csp_战狼",
     "name":"🌈战狼影视",
@@ -217,6 +224,79 @@
   "分类": "电影$1#电视剧$2#综艺$3#动漫$4#动画片$20#短剧$40#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#奇幻片$21#犯罪片$22#悬疑片$23#国产剧$13#香港剧$14#国产剧$13#台湾剧$15#日本剧$16#韩国剧$26#邵氏电影$25"
 
 }},
+
+       {
+    "key":"csp_新视觉",
+    "name":"🌈新视觉",
+    "type":3,
+    "api":"csp_XBPQ",
+    "jar":"./jars/XBPQ.jar",
+    "searchable":1,
+    "quickSearch":0,
+    "filterable":1,
+    "ext":{
+  "主页url": "https://www.6080yy3.com/",
+  "分类url": "https://www.6080yy3.com/vodtype/{cateId}/index{catePg}{class}{catePg}{year}.html"
+  }},
+  {
+    "key":"csp_草民",
+    "name":"🌈草民影视",
+    "type":3,
+    "api":"csp_XBPQ",
+    "jar":"./jars/XBPQ.jar",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":{
+  "主页url": "https://www.epiao1616.com/",
+  "分类url": "https://www.epiao1616.com/vodtype/{cateId}/index{catePg}{class}{catePg}{year}.html",
+ "分类": "电影&电视剧&综艺&动漫&动画片&短剧&", "分类值": "1&2&3&4&29&31&"}},
+   {
+    "key":"csp_剧集",
+    "name":"🌈剧集影视",
+    "type":3,
+    "api":"csp_XBPQ",
+    "jar":"./jars/XBPQ.jar",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":{
+  "主页url": "https://v.ijujitv.cc/",
+  "分类url": "https://v.ijujitv.cc/list/{cateId}/index{catePg}{class}{catePg}{year}.html",
+ "分类": "韩剧&陆剧&日剧&美剧&泰剧&港剧&台剧&短剧", "分类值": "1&6&2&3&4&7&8&9&"
+  }},
+   {
+            "key": "AI-小小影视",
+            "name": "🌈小小影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jars/XBPQ.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "语言": "中文",
+                "请求头": "手机",
+                "地址发布页": "",
+                "主页url": "https://www.weihuafrp.com/",
+                "分类url": "https://www.weihuafrp.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"
+            }
+        },
+  {
+			"key": "星空影视",
+			"name": "🌈星空影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"jar": "./jars/XBPQ.jar",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": {
+				"分类url": "http://www.zzmmgo.com/show_/id/{cateId}/page/{catePg}.html",
+				"分类": "电影&电视剧&综艺&动漫",
+				"分类值": "1&2&3&4&"
+			}
+		},
 {"key": "csp_AList", "name": "❄┃Alist合集 | 网盘", "type": 3,"playerType": 1,"api": "csp_AList",  "jar":"./jars/fm.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./lib/Alist.json"}, 
 
  {"key":"AliShare","name":"❄影视云盘 | 网盘","type":3,"api":"csp_AliShare","jar":"./jars/pg.jar","searchable":1,"quickSearch":0, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/alishare.txt$$$./lib/alitoken.txt$$$db$$$1","style": {"type": "list","ratio": 1.1}}, 
