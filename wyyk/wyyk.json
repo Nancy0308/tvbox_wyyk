@@ -172,9 +172,11 @@
     "filterable":1,
     "ext":{
   "主页url": "https://www.zlyxy01.com/",
+  "线路数组":"<h3 class=\"title\">&&/h3>",
+    "线路标题":"网游鹰接口💠+>&&<", 
   "分类url": "https://www.zlyxy01.com/film/{cateId}/index{catePg}{class}{catePg}{year}.html",
-  "分类": "电影&电视剧&动漫&综艺", "分类值": "1&2&3&4"}},
- 
+  "分类": "电影&电视剧&动漫&综艺", "分类值": "1&2&3&4"
+  }},
  
  {
     "key":"csp_碟调",
@@ -187,25 +189,10 @@
     "filterable":1,
     "ext":{
   "主页url": "https://changaotrade.com/",
-  "分类url": "https://changaotrade.com/vodtype/{cateId}/index{catePg}{class}{catePg}{year}.html"
-  }},
-  
- {
-    "key":"csp_宝宝影院",
-    "name":"🌈宝宝影院",
-    "type":3,
-    "api":"csp_XBPQ",
-    "jar":"./jars/XBPQ.jar",
-    "searchable":1,
-    "quickSearch":0,
-    "filterable":1,
-    "ext":{
-  "主页url": "http://www.cqklbb.com/",
   "线路数组":"<h3 class=\"title\">&&/h3>",
     "线路标题":"网游鹰接口💠+>&&<", 
-  "分类url": "http://www.cqklbb.com/news/{cateId}/index{catePg}{class}{catePg}{year}.html",
-  "分类": "电影$1#电视剧$2#综艺$3#动画片$4#老电影$5"
-}},
+  "分类url": "https://changaotrade.com/vodtype/{cateId}/index{catePg}{class}{catePg}{year}.html"
+  }},
 
  {
     "key":"csp_猪猪影视",
@@ -238,6 +225,7 @@
   "主页url": "https://www.6080yy3.com/",
   "分类url": "https://www.6080yy3.com/vodtype/{cateId}/index{catePg}{class}{catePg}{year}.html"
   }},
+  
   {
     "key":"csp_草民",
     "name":"🌈草民影视",
@@ -251,6 +239,7 @@
   "主页url": "https://www.epiao1616.com/",
   "分类url": "https://www.epiao1616.com/vodtype/{cateId}/index{catePg}{class}{catePg}{year}.html",
  "分类": "电影&电视剧&综艺&动漫&动画片&短剧&", "分类值": "1&2&3&4&29&31&"}},
+  
    {
     "key":"csp_剧集",
     "name":"🌈剧集影视",
@@ -280,8 +269,7 @@
                 "地址发布页": "",
                 "主页url": "https://www.weihuafrp.com/",
                 "分类url": "https://www.weihuafrp.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"
-            }
-        },
+            } },
   {
 			"key": "星空影视",
 			"name": "🌈星空影视",
@@ -338,10 +326,34 @@
     "ext": {
               "分类url": "http://www.yt484.com/mvlist/{cateId}/page/{catePg}.html"
 	}},
-    
+     {
+    "key": "天空影视",
+    "name": "🌈天空影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar": "./jars/XBPQ.jar",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": {
+        "分类url": "https://www.kuyoo.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+	    "分类": "电影&电视剧&综艺&动漫&短剧&",
+        "分类值": "1&2&3&4&38&"
+}},
+       {
+    "key": "蓝光影视",
+    "name": "🌈蓝光影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar": "./jars/XBPQ.jar",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": {"分类url": "https://www.hxsysz.com/type/{cateId}/page/{catePg}.html"
+    }},
     {
     "key": "rarbt影院",
-    "name": "🌈rarbt影院",
+    "name": "🌈rarbt影院HD",
     "type": 3,
     "api": "csp_XBPQ",
     "jar": "./jars/XBPQ.jar",
@@ -352,6 +364,24 @@
               "分类url": "https://www.rarbt.fun/type/{cateId}/page/{catePg}.html",
 	     "分类": "电影$movie#电视剧$Series#综艺$variety#动漫$cartoon#短剧$duanju"  
 }},
+
+ {
+    "key": "全集影院",
+    "name": "🌈全集影院HD",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar": "./jars/XBPQ.jar",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": {
+              "线路数组":"<h3 class=\"title\">&&/h3>",
+              "线路标题":"网游鹰接口💠+>&&<", 
+              "分类url": "https://vip.qjiww.com/qphb/{cateId}/page/{catePg}.html",
+              "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongmna"
+}},
+
+
 {"key": "csp_AList", "name": "❄┃Alist合集 | 网盘", "type": 3,"playerType": 1,"api": "csp_AList",  "jar":"./jars/fm.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./lib/Alist.json"}, 
 
  {"key":"AliShare","name":"❄影视云盘 | 网盘","type":3,"api":"csp_AliShare","jar":"./jars/pg.jar","searchable":1,"quickSearch":0, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/alishare.txt$$$./lib/alitoken.txt$$$db$$$1","style": {"type": "list","ratio": 1.1}}, 
