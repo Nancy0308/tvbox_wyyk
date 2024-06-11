@@ -351,6 +351,56 @@
     "filterable": 1,
     "ext": {"分类url": "https://www.hxsysz.com/type/{cateId}/page/{catePg}.html"
     }},
+    
+     {
+    "key": "蜗牛影院",
+    "name": "🌈蜗牛影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar": "./jars/XBPQ.jar",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": {"分类url": "https://www.jlshxcm.com/vodtype/{cateId}/index{catePg}{class}{catePg}{year}.html"
+  }},
+  
+   {
+    "key": "猫眼影院",
+    "name": "🌈猫眼影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar": "./jars/XBPQ.jar",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": {"分类url": "https://www.newjintong.cn/vodtype/{cateId}/index{catePg}{class}{catePg}{year}.html",
+    "分类": "电影&电视剧&综艺&动漫&热门短剧&",
+        "分类值": "1&2&3&4&30&"
+  }},
+   {
+    "key": "传奇影院",
+    "name": "🌈传奇影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar": "./jars/XBPQ.jar",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": {"分类url": "https://www.cqylk.com/vodtype/{cateId}/index{catePg}{class}{catePg}{year}.html"
+  }},
+{
+    "key": "酷猫影视",
+    "name": "🌈酷猫影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar": "./jars/XBPQ.jar",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": {
+              "分类url": "https://www.gxqdyz.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+	    "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongmna#"
+}},
     {
     "key": "rarbt影院",
     "name": "🌈rarbt影院HD",
@@ -381,7 +431,7 @@
               "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongmna"
 }},
 
-
+        
 {"key": "csp_AList", "name": "❄┃Alist合集 | 网盘", "type": 3,"playerType": 1,"api": "csp_AList",  "jar":"./jars/fm.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./lib/Alist.json"}, 
 
  {"key":"AliShare","name":"❄影视云盘 | 网盘","type":3,"api":"csp_AliShare","jar":"./jars/pg.jar","searchable":1,"quickSearch":0, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/alishare.txt$$$./lib/alitoken.txt$$$db$$$1","style": {"type": "list","ratio": 1.1}}, 
@@ -472,6 +522,8 @@
 {"name": "-二-","type": 1,"url": "http://119.91.123.253:2345/Api/yun.php?url="},
 {"name": "-小-","type": 1,"url": "http://xxjx.qqwx.ren/?url="},
 {"name": "-帅-","type": 1,"url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=" },
+{"name":"超级嗅探","type":3,"url":"Web"},
+{"name":"夜幕嗅探","type":0,"url":"https://www.yemu.xyz/?url="},
 {"name":"-左岸-","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="}      
  ],
   "doh": [
