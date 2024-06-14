@@ -12,8 +12,9 @@
 {"name":"抖音","url":"https://cloud.lxweb.cn/f/BdOjI9/%E6%8A%96%E9%9F%B3.apk","icon":"https://cloud.lxweb.cn/f/WPmRcB/status_icon.png","version":"抖音TV版"},
 {"name":"影视TV海信版","url":"https://cloud.lxweb.cn/f/P6rEfb/%E5%BD%B1%E8%A7%86%E7%94%B5%E8%A7%86%E7%89%88_0214%EF%BC%88%E6%B5%B7%E4%BF%A1%E7%94%B5%E8%A7%86%E4%B8%93%E7%94%A8%E7%89%88%EF%BC%89.apk","icon":"https://cloud.lxweb.cn/f/9D6Li1/05A15ujb_Fengmi_640.png","version":"0214海信专用版"},
 {"name":"影视仓TV海信版","url":"https://cloud.lxweb.cn/f/MJoQHG/%E5%BD%B1%E8%A7%86%E4%BB%93_5.0.28.1_%E6%B5%B7%E4%BF%A1.apk","icon":"https://cloud.lxweb.cn/f/9kNkI1/%E5%BD%B1%E8%A7%86%E4%BB%93.jpg","version":"5.0.28.1海信专用版"},
-{"name":"可视TV版","url":"https://cloud.lxweb.cn/f/6wdEuw/%E5%8F%AF%E8%A7%86TV%20Max_1.9.0%EF%BC%882024.04.20%EF%BC%89.apk","icon":"https://cloud.lxweb.cn/f/a7Ogh6/keshi.png","version":"1.9.0版"},
-{"name":"可视TV版","url":"https://cloud.lxweb.cn/f/ZoXbfz/%E5%8F%AF%E8%A7%86TV%20Max_1.9.2%EF%BC%882024.04.30%E5%85%B1%E5%AD%98%EF%BC%89.apk","icon":"https://cloud.lxweb.cn/f/a7Ogh6/keshi.png","version":"1.9.2版"}
+{"name":"可视TV版","url":"https://cloud.lxweb.cn/f/LgyyCD/%E5%8F%AF%E8%A7%86TV%20Max_1.9.5.apk","icon":"https://cloud.lxweb.cn/f/a7Ogh6/keshi.png","version":"1.9.5版"},
+{"name":"可视TV版","url":"https://cloud.lxweb.cn/f/ZoXbfz/%E5%8F%AF%E8%A7%86TV%20Max_1.9.2%EF%BC%882024.04.30%E5%85%B1%E5%AD%98%EF%BC%89.apk","icon":"https://cloud.lxweb.cn/f/a7Ogh6/keshi.png","version":"1.9.2版"},
+{"name":"OK影视版","url":"https://cloud.lxweb.cn/f/8G2JS1/OK%E5%BD%B1%E8%A7%86-%E7%94%B5%E8%A7%86%E7%89%88-X5%E7%A6%BB%E7%BA%BF-0613.apk","icon":"https://cloud.lxweb.cn/f/ngGNf6/OK.png","version":"OK电视版-X5-0613"}
 ]},
 
 {"name":"电视直播软件","list":[
@@ -25,6 +26,7 @@
 {"name":"灵犀电视","url":"https://cloud.lxweb.cn/f/O8leCb/%E7%81%B5%E7%8A%80_1.0.133%EF%BC%88%E6%9C%89%E8%B4%AD%E7%89%A9%E5%8F%B0%EF%BC%89.apk","icon":"https://cloud.lxweb.cn/f/PoM9Fb/%E7%81%B5%E7%8A%80.png","version":"1.0.133版"},
 {"name":"Mtv电视","url":"https://cloud.lxweb.cn/f/OE1gIb/Mtv.apk","icon":"https://cloud.lxweb.cn/f/9doni1/Mtv.png","version":"网游鹰内置tv版"},
 {"name":"我的电视","url":"https://cloud.lxweb.cn/f/oGe8FY/%E6%88%91%E7%9A%84%E7%94%B5%E8%A7%86mytv_1.9.8%28%E9%80%9A%E7%94%A8%29.apk","icon":"https://cloud.lxweb.cn/f/wEP6c2/wdds.png","version":"1.9.8版"}
+
 ]},
 
 {"name":"音乐软件","list":[
@@ -53,7 +55,7 @@
 {"name":"安全桌面","url":"https://cloud.lxweb.cn/f/ewGZfa/%E5%AE%9D%E5%85%A8%E6%A1%8C%E9%9D%A2_51.apk","icon":"https://cloud.lxweb.cn/f/rzXpuE/%E5%AE%89%E5%85%A8%E6%A1%8C%E9%9D%A2.png","version":"51版"},
 {"name":"emotn UI桌面","url":"https://cloud.lxweb.cn/f/RrlgfO/Emotn%20UI_1.0.9.0.apk","icon":"https://cloud.lxweb.cn/f/VypdCr/emotn.png","version":"v1.0.9.0版"},
 {"name":"IDM+","url":"https://cloud.lxweb.cn/f/MoPbFG/1DM+_16.apk","icon":"https://cloud.lxweb.cn/f/6gNNfw/idm.png","version":"16.0版"},
-{"name":"ES管理器","url":"https://cloud.lxweb.cn/f/EQLaHX/ES%E6%96%87%E4%BB%B6%E6%B5%8F%E8%A7%88%E5%99%A84.4.0.6%E7%89%88.apk","icon":"https://cloud.lxweb.cn/f/lepyfw/ES.png","version":"4.4.0.6版"},
+{"name":"ES管理器","url":"https://cloud.lxweb.cn/f/ngzOs6/ES%E6%96%87%E4%BB%B6%E6%B5%8F%E8%A7%88%E5%99%A8%204.4.2.10%E5%85%8D%E7%99%BB%E9%99%86%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98%E7%89%88@bin1site.APK","icon":"https://cloud.lxweb.cn/f/lepyfw/ES.png","version":"4.4.2.10版"},
 {"name":"MT管理器","url":"https://cloud.lxweb.cn/f/BxjzH9/MT%E7%AE%A1%E7%90%86%E5%99%A82.14.5.apk","icon":"https://cloud.lxweb.cn/f/WrjqTB/mt.png","version":"2.14.5版"},
 {"name":"NP管理器","url":"https://cloud.lxweb.cn/f/modAFj/player.normal.np.NPApp.apk","icon":"https://cloud.lxweb.cn/f/7XqWtr/np.png","version":"3.1.3版"},
 {"name":"小白管理器","url":"https://cloud.lxweb.cn/f/B61EF9/%E5%B0%8F%E7%99%BD%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%99%A8_2.8.0.apk","icon":"https://cloud.lxweb.cn/f/WQpKTB/xb.png","version":"2.8.0版"},
@@ -74,6 +76,7 @@
 {"name":"如意视界","url":"https://cloud.lxweb.cn/f/pGR0se/%E5%A6%82%E6%84%8F%E8%A7%86%E7%95%8C9.6.0%E5%86%85%E7%BD%AE%E5%BD%B1%E8%A7%86%E8%BD%AF%E4%BB%B6.apk","icon":"https://cloud.lxweb.cn/f/KE8OTX/%E5%A6%82%E6%84%8F%E7%94%B5%E8%A7%86.png","version":"如意视界内置9.6.0手机版"},
 {"name":"闪电影视盒","url":"https://cloud.lxweb.cn/f/AEwMFa/%E9%97%AA%E7%94%B5%E5%BD%B1%E8%A7%86%E7%9B%92.apk","icon":"https://cloud.lxweb.cn/f/Byxyi9/%E9%97%AA%E7%94%B5%E5%BD%B1%E8%A7%86%E7%9B%92.png","version":"闪电影视盒内置版"},
 {"name":"ok影视","url":"https://cloud.lxweb.cn/f/ab7ef6/ok%E5%BD%B1%E8%A7%86.apk","icon":"https://cloud.lxweb.cn/f/ngGNf6/OK.png","version":"ok影视内置版"},
+{"name":"网游鹰TV","url":"https://cloud.lxweb.cn/f/kpqVcp/%E7%BD%91%E6%B8%B8%E9%B9%B0TV.apk","icon":"https://cloud.lxweb.cn/f/JX1dsk/%E7%BD%91%E6%B8%B8%E9%B9%B0TV.png","version":"影视内置版"},
 {"name":"牛马影视","url":"https://cloud.lxweb.cn/f/Nw0gIR/%E7%89%9B%E9%A9%AC%E5%BD%B1%E4%BB%93%205.0.28%201.apk","icon":"https://cloud.lxweb.cn/f/m2qeTj/%E7%89%9B%E9%A9%AC.png","version":"牛马影视内置版"}
 ]},
 
@@ -82,6 +85,7 @@
 {"name":"影视仓","url":"https://cloud.lxweb.cn/f/82eJF1/%E5%BD%B1%E8%A7%86%E4%BB%93V3%20%203.0.35.apk","icon":"https://cloud.lxweb.cn/f/9kNkI1/%E5%BD%B1%E8%A7%86%E4%BB%93.jpg","version":"影视仓V3_3.0.35版"},
 {"name":"影视TV版","url":"https://cloud.lxweb.cn/f/OB06Ib/%E5%AE%89%E5%8D%934.x%E5%BD%B1%E8%A7%86TV0312.apk.1","icon":"https://cloud.lxweb.cn/f/WrXOcB/Fengmi_640.png","version":"安卓4.x影视TV0312版"},
 {"name":"影视TV2.2.0版","url":"https://cloud.lxweb.cn/f/or2ZiY/%E5%BD%B1%E8%A7%86%204.1-4.4%E7%94%B5%E8%A7%86%E6%AD%A3%E5%BC%8F%E7%89%882.2.0.apk","icon":"https://cloud.lxweb.cn/f/WrXOcB/Fengmi_640.png","version":"影视 4.1-4.4电视正式版2.2.0版"},
-{"name":"可视TV版","url":"https://cloud.lxweb.cn/f/k6doTp/%E5%AE%89%E5%8D%934%E5%8F%AF%E8%A7%86TV3.0.1.apk","icon":"https://cloud.lxweb.cn/f/a7Ogh6/keshi.png","version":"3.0.1版"}
+{"name":"可视TV版","url":"https://cloud.lxweb.cn/f/k6doTp/%E5%AE%89%E5%8D%934%E5%8F%AF%E8%A7%86TV3.0.1.apk","icon":"https://cloud.lxweb.cn/f/a7Ogh6/keshi.png","version":"3.0.1版"},
+{"name":"ok影视版","url":"https://cloud.lxweb.cn/f/r0MLiE/OK%E5%BD%B1%E8%A7%86-%E5%AE%89%E5%8D%934.x-0613.apk","icon":"https://cloud.lxweb.cn/f/ngGNf6/OK.png","version":"OK影视-安卓4.x-0613版"}
 
 ]}]
