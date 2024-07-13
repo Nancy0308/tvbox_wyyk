@@ -1,4 +1,0 @@
-手机使用请将wyyk目录解压到手机根目录
-
-clan://localhost/wyyk/wyyk.json
-
